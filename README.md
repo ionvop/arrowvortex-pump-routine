@@ -4,5 +4,3 @@ A patch to add support for pump-routine step type
 ## Directions
 
 Download the repository and extract the files onto the program's directory.
-
-**Warning:** This will overwrite `settings/styles.txt`
