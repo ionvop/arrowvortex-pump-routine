@@ -1,4 +1,4 @@
-# arrowvortex-pump-routine-patch
+# arrowvortex-pump-routine
 A patch for [ArrowVortex](https://arrowvortex.ddrnl.com/) that adds support for the `pump-routine` step type.
 
 ## Installation Instructions
