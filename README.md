@@ -3,13 +3,16 @@ A patch for [ArrowVortex](https://arrowvortex.ddrnl.com/) that adds support for 
 
 ## Installation Instructions
 
-1. **Download and extract the repository**:
+1. **Backup your files**:  
+   Before proceeding, create a backup of your existing ArrowVortex program directory. This ensures you can restore the original setup if needed.
+
+2. **Download and extract the repository**:
    Obtain the patch files by downloading and extracting the repository archive.
 
-2. **Copy base files**:
+3. **Copy base files**:
    Copy the contents of the `base/` folder into the ArrowVortex program's directory. This ensures the core functionality of the patch is applied.
 
-3. **Choose a style**:
+4. **Choose a style**:
    Select a style from the available options and copy its contents into the program's directory to customize the appearance.
 
 ## Available Styles
